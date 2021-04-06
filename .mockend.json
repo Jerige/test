@@ -1,0 +1,10 @@
+{
+  "employee": {
+    "title": "string",
+    "firstname": "string",
+    "firstname": "string",    
+    "age": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  }
+}
