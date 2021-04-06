@@ -2,7 +2,7 @@
   "employee": {
     "title": "string",
     "firstname": "string",
-    "firstname": "string",    
+    "lastname": "string",    
     "age": "int",
     "published": "boolean",
     "createdAt": "date"
