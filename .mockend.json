@@ -8,5 +8,13 @@
     "createdAt": "date",
     "phonenumber": "string"
  
+  },
+  
+  "Salary": {
+    "title": "string"
+  
+ 
   }
+  
+  
 }
