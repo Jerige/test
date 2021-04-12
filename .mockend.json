@@ -5,7 +5,8 @@
     "lastname": "string",    
     "age": "int",
     "published": "boolean",
-    "createdAt": "date"   
+    "createdAt": "date",
+    "phonenumber": "string"
  
   }
 }
