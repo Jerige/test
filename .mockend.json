@@ -1,3 +1,5 @@
 {
- { "title": { "string": {} }
+ "ModelName": {
+    { "title": { "string": {} }
+}
 }
