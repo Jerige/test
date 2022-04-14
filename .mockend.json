@@ -3,7 +3,7 @@
     "title": { "string": {} },
     "firstname": { "string": {} },
     "lastname": { "string": {} },    
-    "age": { "int": {} },,
+    "age": { "int": {} },
     "published": { "boolean": {} },
     "createdAt": { "date": {} },
     "phonenumber": { "string": {} },
