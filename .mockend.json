@@ -3,7 +3,7 @@
     "title": { "string": {} },
     "likes": { "int": { "min": 0, "max": 1000000 } } ,
     "age": { "int": { "min": 1, "max": 125 } },
-    "firstname": { "string": ["Quinn","April","Sarah","Blackwell","Munoz","Leann","Cox","Mays","Coffey","Morgan"] }
+    "firstname": { "string": ["Meyer","Johnston","Mcmahon","Vera","Petty","Kramer","Head","Shaw","Nora","Irwin","Malinda","Lucy","Griffin","Mabel","Karyn","Hancock","Munoz","Wheeler","Staci","Millie","Rosalind","Evans","Della","Jasmine","Christensen","Karina","Isabel","Elizabeth","Conner","Parsons","Lorie","Bertha","Laura","Lesley","Lena","Emerson","Annette","Vilma","Sargent","Hyde","Elisabeth","Natalie","Dolores","Weeks","York","Mccullough","Ernestine","Irma","Ladonna","Gladys","Rosales","Adeline","Miller","Wilkinson","Buckley","Katina","Kerry","Mitchell","Rosanna","Moore","Minerva","Barron","Everett","Elise","Hobbs","Good","Katrina","Jacklyn","Copeland","Mindy","Chaney","Eloise","Barbara","Maritza","Walker","Hooper","Suzanne","Fannie"}] }
     
   }
 }
