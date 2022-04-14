@@ -1,5 +1,5 @@
 {
  "ModelName": {
-    { "title": { "string": {} }
+    { "title": { "string": {}, "belongsTo": "Model" }
 }
 }
