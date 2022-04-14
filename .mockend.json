@@ -1,5 +1,10 @@
 {
  "ModelName": {
-    { "title": { "string": {}, "belongsTo": "Model" }
+    { "title": { "string": {}, 
+                 "hasMany": "Model",                
+                 "belongsTo": "Model" 
+
+}
+}
 }
 }
